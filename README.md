@@ -9,3 +9,5 @@
 * npm@7.5.2
 * typescript@3.8.2
 * vue-cli@2.9.6
+
+You can list it with ```npm list -g -depth=0```
